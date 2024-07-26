@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('About.jpg'); /* Replace with your image path */
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration: red;
+    font-size: 25px;
+    
+}
+h1{
+    color: antiquewhite;
+}
+p{
+    border-top: ;
+    color: white;
+    padding: 16px;
+    margin: 12px;
+    font-weight: bold;
+}
